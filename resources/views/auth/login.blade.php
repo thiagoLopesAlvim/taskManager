@@ -49,6 +49,7 @@
 
         .form-group {
             margin-bottom: 1.5rem;
+            margin-right: 35px;
         }
 
         .form-group label {
