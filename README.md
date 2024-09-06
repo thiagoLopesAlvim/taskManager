@@ -17,9 +17,9 @@ O **Gerenciador de Tarefas** é um sistema de gerenciamento de tarefas simples, 
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-
+   git clone https://github.com/thiagoLopesAlvim/taskManager.git
+   cd taskManager
+   ```
 
 2. **Instale as Dependências do PHP**
 
