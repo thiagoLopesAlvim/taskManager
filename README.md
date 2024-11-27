@@ -32,7 +32,7 @@ O **Gerenciador de Tarefas** é um sistema de gerenciamento de tarefas simples, 
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=tasks
+   DB_DATABASE=laravel
    DB_USERNAME=root
    DB_PASSWORD=
    ```
@@ -45,8 +45,14 @@ O **Gerenciador de Tarefas** é um sistema de gerenciamento de tarefas simples, 
    ```bash
    php artisan migrate
    ```
+ 5. **Npm Install**
+   ```bash
+   npm install
+   npm audit fix
+   ```
 6. **Inicie o Servidor Local**
    ```bash
+   npm run dev
    php artisan serve
    ```
 
